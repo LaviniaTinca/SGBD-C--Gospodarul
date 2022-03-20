@@ -1,0 +1,11 @@
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\bin\Debug\lab1.exe.config
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\bin\Debug\lab1.exe
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\bin\Debug\lab1.pdb
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\obj\Debug\lab1.exe
+D:\facultate\an 2\sem 2\SGBD\lab\lab1\lab1\obj\Debug\lab1.pdb
